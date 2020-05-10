@@ -2293,8 +2293,8 @@
          </thead>
          <tbody>
             <tr>
-               <td><a href="https://everysize.kibalabs.com/" rel="nofollow">everysize.kibalabs.com</a></td>
-               <td>Check your awesome responsive webpage looks great in every size</td>
+               <td><a href="https://www.mokupframes.com/" rel="nofollow">mokupframes</a></td>
+               <td>Create amazing Dribbble-ready GIFs or videos in one click.</td>
             </tr>
             <tr>
                <td><a href="https://devhints.io/" rel="nofollow">Devhints.io</a></td>
@@ -2302,5 +2302,5 @@
             </tr>
          </tbody>
       </table>
-   </article>
+   </article> 
 </div>
