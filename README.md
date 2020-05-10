@@ -170,6 +170,10 @@
                <td><a href="https://www.screenspace.io/studio/" rel="nofollow">ScreenSpace</a></td>
                <td>Create studio quality 3D device videos — in minute</td>
             </tr>
+            <tr>
+               <td><a href="https://hamok.io/" rel="nofollow">Hamok</a></td>
+               <td>Showcase your digital designs. Beautifully and super easy with Hamok. Create high resolution mockups, personalise, export and use everywhere.</td>
+            </tr>
          </tbody>
       </table>
       <div align="right">
