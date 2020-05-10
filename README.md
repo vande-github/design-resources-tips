@@ -533,6 +533,10 @@
                <td><a href="https://materialdesignicons.com/" rel="nofollow">Material Design Icons</a></td>
                <td>A icon collection allowing designers and developers targeting various platforms to download icons in the format, color and size they need for any project.</td>
             </tr>
+             <tr>
+               <td><a href="https://iconify.design/" rel="nofollow">Unified icons framework</a></td>
+               <td>One library, over 40,000 vector icons.Modern replacement for icon fonts. Fast, easy to use.</td>
+            </tr>
          </tbody>
       </table>
       <div align="right">
