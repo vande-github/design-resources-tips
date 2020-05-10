@@ -1689,4 +1689,589 @@
          </thead>
          <tbody>
             <tr>
-               <td><a href="https://material.io/" rel="n
+               <td><a href="https://material.io/" rel="nofollow">Material Design</a></td>
+               <td>Google's Material Design</td>
+            </tr>
+            <tr>
+               <td><a href="https://ant.design/" rel="nofollow">Ant Design</a></td>
+               <td>Design system for enterprise-level products</td>
+            </tr>
+            <tr>
+               <td><a href="https://developer.apple.com/design/resources/" rel="nofollow">Apple Design Resources</a></td>
+               <td>Guides and templates for using Apple design and UI</td>
+            </tr>
+            <tr>
+               <td><a href="https://www.oracle.com/webfolder/ux/middleware/alta/index.html" rel="nofollow">Alta UI</a></td>
+               <td>Oracle's design system and toolkit</td>
+            </tr>
+            <tr>
+               <td><a href="https://pulse.heartbeat.ua/" rel="nofollow">Pulse</a></td>
+               <td>Design system, guides and React component library</td>
+            </tr>
+            <tr>
+               <td><a href="https://boltdesignsystem.com/" rel="nofollow">Bolt</a></td>
+               <td>Robust Twig and web component powered UI components</td>
+            </tr>
+            <tr>
+               <td><a href="https://clarity.design/" rel="nofollow">Clarity Design System</a></td>
+               <td>UX guidelines, HTML/CSS framework, and Angular components</td>
+            </tr>
+            <tr>
+               <td><a href="https://atlaskit.atlassian.com/" rel="nofollow">AtlasKit</a></td>
+               <td>Atlassian's official UI library, built according to the Atlassian Design Guidelines</td>
+            </tr>
+            <tr>
+               <td><a href="https://www.audi.com/ci/en/guides/user-interface/introduction.html" rel="nofollow">Audi Design Resources</a></td>
+               <td>Audi UI design system and toolkit</td>
+            </tr>
+            <tr>
+               <td><a href="https://www.carbondesignsystem.com/" rel="nofollow">Carbon Design Systems</a></td>
+               <td>Carbon is IBM’s open-source design system for products and experiences</td>
+            </tr>
+            <tr>
+               <td><a href="https://www.yelp.com/styleguide" rel="nofollow">Yelp Style Guide</a></td>
+               <td>Yelp style guide, components and toolkit</td>
+            </tr>
+            <tr>
+               <td><a href="https://comet.discoveryeducation.com/" rel="nofollow">Comet</a></td>
+               <td>Scalable design system of visual language, components, and design assets</td>
+            </tr>
+            <tr>
+               <td><a href="https://etrade.design/" rel="nofollow">ETrade Design System</a></td>
+               <td>Guides and toolkits that blend finance with simplicity and ease of use</td>
+            </tr>
+            <tr>
+               <td><a href="https://sap.github.io/fundamental-styles/" rel="nofollow">Fundamental Library</a></td>
+               <td>Open source and community driven project for consistent user interfaces</td>
+            </tr>
+            <tr>
+               <td><a href="https://design.infor.com/" rel="nofollow">Infor Design</a></td>
+               <td>Guidelines and resources to create meaningful experiences for Infor’s products</td>
+            </tr>
+            <tr>
+               <td><a href="https://liferay.design/lexicon/" rel="nofollow">Lexicon</a></td>
+               <td>An experience language for crafting beautiful UI</td>
+            </tr>
+            <tr>
+               <td><a href="https://ux.mailchimp.com/patterns/color" rel="nofollow">Mailchimp UI/UX</a></td>
+               <td>Style guide and components from Mailchimp</td>
+            </tr>
+            <tr>
+               <td><a href="https://marvelapp.com/styleguide/overview/introduction" rel="nofollow">Marvel Style Guide</a></td>
+               <td>Set of design principles and components</td>
+            </tr>
+            <tr>
+               <td><a href="https://developer.microsoft.com/en-us/fluentui#/" rel="nofollow">Microsoft Fluent UI</a></td>
+               <td>Collection of UX frameworks from Microsoft</td>
+            </tr>
+            <tr>
+               <td><a href="https://design-system.pluralsight.com/" rel="nofollow">Pluralsight Design System</a></td>
+               <td>Design guide with components for designing with Pluralsight</td>
+            </tr>
+            <tr>
+               <td><a href="https://polaris.shopify.com/" rel="nofollow">Polaris</a></td>
+               <td>Design system that creates great experiences for all of Shopify’s merchants</td>
+            </tr>
+            <tr>
+               <td><a href="https://protocol.mozilla.org/" rel="nofollow">Mozilla Protocol</a></td>
+               <td>Protocol is a design system for Mozilla and Firefox websites</td>
+            </tr>
+            <tr>
+               <td><a href="http://styleguide.sendgrid.com/" rel="nofollow">SendGrid Style Guide</a></td>
+               <td>UI library for developing consistent UI/UX at SendGrid</td>
+            </tr>
+            <tr>
+               <td><a href="https://styleguide.vtex.com/" rel="nofollow">VTEX Styleguide</a></td>
+               <td>Reusable patterns, components and assets related to product design in VTEX</td>
+            </tr>
+            <tr>
+               <td><a href="https://rizzo.lonelyplanet.com/styleguide/design-elements" rel="nofollow">Rizzo</a></td>
+               <td>Style guide with UI components, JS components, widgets, etc</td>
+            </tr>
+            <tr>
+               <td><a href="https://atomizecode.com/" rel="nofollow">Atomize</a></td>
+               <td>UI framework that helps developers collaborate with designers and build consistent user interfaces effortlessly</td>
+            </tr>
+            <tr>
+               <td><a href="http://styleguides.io/" rel="nofollow">StyleGuides.io</a></td>
+               <td>A directory of 500+ styleguides</td>
+            </tr>
+         </tbody>
+      </table>
+      <div align="right">
+         <b><a href="#table-of-contents">↥ Back To Top</a></b>
+      </div>
+      <h2>
+         <a id="user-content-online-design-tools" class="anchor" aria-hidden="true" href="#online-design-tools">
+            <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
+               <path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
+            </svg>
+         </a>
+         Online Design Tools
+      </h2>
+      <blockquote>
+         <p>All kinds of online tools for design, from photo editors to wireframing, and more</p>
+      </blockquote>
+      <table>
+         <thead>
+            <tr>
+               <th>Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</th>
+               <th>Description</th>
+            </tr>
+         </thead>
+         <tbody>
+            <tr>
+               <td><a href="https://www.figma.com/graphic-design-tool/" rel="nofollow">Figma</a></td>
+               <td>Online graphic design tool (Free &amp; paid options)</td>
+            </tr>
+            <tr>
+               <td><a href="https://vectr.com/" rel="nofollow">Vectr</a></td>
+               <td>Free vector graphics software</td>
+            </tr>
+            <tr>
+               <td><a href="https://www.canva.com/" rel="nofollow">Canva</a></td>
+               <td>Create beautiful designs (Free &amp; Paid)</td>
+            </tr>
+            <tr>
+               <td><a href="https://wireframe.cc/" rel="nofollow">Wireframe.cc</a></td>
+               <td>Wireframing tool (free &amp; paid)</td>
+            </tr>
+            <tr>
+               <td><a href="https://www.fotor.com/" rel="nofollow">Fotor</a></td>
+               <td>Photo editor and design maker</td>
+            </tr>
+            <tr>
+               <td><a href="https://www.pixlr.com/" rel="nofollow">Pixlr</a></td>
+               <td>Online photo editor</td>
+            </tr>
+            <tr>
+               <td><a href="https://animoto.com/apps/online-video-maker" rel="nofollow">Animoto Video Maker</a></td>
+               <td>Make videos online</td>
+            </tr>
+            <tr>
+               <td><a href="https://www.remove.bg/" rel="nofollow">RemoveBG</a></td>
+               <td>Remove image backgrounds</td>
+            </tr>
+            <tr>
+               <td><a href="https://photos.icons8.com/creator" rel="nofollow">Photo Creator</a></td>
+               <td>Create your own photos instead of searching for stock</td>
+            </tr>
+            <tr>
+               <td><a href="https://www.visme.co/" rel="nofollow">Visme</a></td>
+               <td>Create presentations, infographics and more</td>
+            </tr>
+            <tr>
+               <td><a href="https://infogram.com/" rel="nofollow">Infogram</a></td>
+               <td>Create infograms</td>
+            </tr>
+            <tr>
+               <td><a href="https://www.chartgo.com/" rel="nofollow">ChartGo</a></td>
+               <td>Create charts and graphs online</td>
+            </tr>
+            <tr>
+               <td><a href="https://cartoon.pho.to/" rel="nofollow">Cartoon Photo</a></td>
+               <td>Turn photos into cartoons</td>
+            </tr>
+            <tr>
+               <td><a href="https://logomakr.com/" rel="nofollow">Logo Maker</a></td>
+               <td>Create custom logos</td>
+            </tr>
+            <tr>
+               <td><a href="https://whimsical.com/" rel="nofollow">Whimsical</a></td>
+               <td>Wireframes, diagrams and more (4 free)</td>
+            </tr>
+            <tr>
+               <td><a href="https://witeboard.com/" rel="nofollow">Whiteboard</a></td>
+               <td>Online drawing tool</td>
+            </tr>
+            <tr>
+               <td><a href="https://octopus.do/" rel="nofollow">Octopus</a></td>
+               <td>Sitemap builder</td>
+            </tr>
+            <tr>
+               <td><a href="http://tools.dynamicdrive.com/favicon/" rel="nofollow">Favicon Generator</a></td>
+               <td>Generate favicon ico files for your website</td>
+            </tr>
+            <tr>
+               <td><a href="https://realfavicongenerator.net/" rel="nofollow">RealFaviconGenerator</a></td>
+               <td>Generate icons for all platforms (Windows, iOS, Android)</td>
+            </tr>
+            <tr>
+               <td><a href="https://gauger.io/fonticon/" rel="nofollow">FontIcon</a></td>
+               <td>Generate favicons and images from Font Awesome icons</td>
+            </tr>
+            <tr>
+               <td><a href="https://www.clickminded.com/button-generator/" rel="nofollow">CTA Button Maker</a></td>
+               <td>Create call to action buttons</td>
+            </tr>
+            <tr>
+               <td><a href="https://www.blobmaker.app/" rel="nofollow">Blobmaker</a></td>
+               <td>Blobmaker is a free generative design tool, to help you quickly create random, unique, and organic-looking SVG shapes.</td>
+            </tr>
+            <tr>
+               <td><a href="https://personas.draftbit.com/" rel="nofollow">Personas</a></td>
+               <td>A playful avatar generator for the modern age.</td>
+            </tr>
+            <tr>
+               <td><a href="https://www.softui.io" rel="nofollow">SoftUI</a></td>
+               <td>A Soft UI (neumorphism) CSS generator.</td>
+            </tr>
+            <tr>
+               <td><a href="https://www.photopea.com" rel="nofollow">Photopea</a></td>
+               <td>A Online Photoshop editor.</td>
+            </tr>
+            <tr>
+               <td><a href="https://excalidraw.com/" rel="nofollow">Excalidraw</a></td>
+               <td>Virtual whiteboard for sketching hand-drawn like diagrams.</td>
+            </tr>
+            <tr>
+               <td><a href="https://www.diagrams.net/" rel="nofollow">Diagrams</a></td>
+               <td>Diagram software and Flowchart maker.</td>
+            </tr>
+            <tr>
+               <td><a href="http://mapinseconds.com/" rel="nofollow">MapInSeconds</a></td>
+               <td>Simple way to visualize your data with a map.</td>
+            </tr>
+            <tr>
+               <td><a href="http://grid.malven.co/" rel="nofollow">Grid Malven</a></td>
+               <td>A css grid cheatsheet to reference when creating a css grid.</td>
+            </tr>
+            <tr>
+               <td><a href="https://www.blobmaker.app/" rel="nofollow">Blobmaker</a></td>
+               <td>Blobmaker is a free generative design tool, to help you quickly create random, unique, and organic-looking SVG shapes</td>
+            </tr>
+            <tr>
+               <td><a href="https://personas.draftbit.com/" rel="nofollow">Personas</a></td>
+               <td>A playful avatar generator for the modern age</td>
+            </tr>
+            <tr>
+               <td><a href="https://www.softui.io" rel="nofollow">SoftUI</a></td>
+               <td>A Soft UI (neumorphism) CSS generator</td>
+            </tr>
+            <tr>
+               <td><a href="https://www.photopea.com" rel="nofollow">Photopea</a></td>
+               <td>A Online Photoshop editor</td>
+            </tr>
+            <tr>
+               <td><a href="https://excalidraw.com/" rel="nofollow">Excalidraw</a></td>
+               <td>Virtual whiteboard for sketching hand-drawn like diagrams</td>
+            </tr>
+            <tr>
+               <td><a href="https://www.diagrams.net/" rel="nofollow">Diagrams</a></td>
+               <td>Diagram software and Flowchart maker</td>
+            </tr>
+            <tr>
+               <td><a href="http://mapinseconds.com/" rel="nofollow">MapInSeconds</a></td>
+               <td>Simple way to visualize your data with a map</td>
+            </tr>
+            <tr>
+               <td><a href="http://grid.malven.co/" rel="nofollow">Grid Malven</a></td>
+               <td>A css grid cheatsheet to reference when creating a css grid</td>
+            </tr>
+            <tr>
+               <td><a href="https://icons8.com/upscaler" rel="nofollow">Smart Upscaler</a></td>
+               <td>Upscale images by 2-4x resolution</td>
+            </tr>
+            <tr>
+               <td><a href="https://getavataaars.com/" rel="nofollow">GetAvataaars</a></td>
+               <td>Fun and Colorful free avatars web generator tool by Fang-Pen Lin using Pablo Stanley sketch library</td>
+            </tr>
+            <tr>
+               <td><a href="https://webflow.com/" rel="nofollow">Webflow</a></td>
+               <td>Break the code barrier, Build better business websites, faster. Without coding.</td>
+            </tr>
+            <tr>
+               <td><a href="https://stickermule.com/trace" rel="nofollow">Trace</a></td>
+               <td>Instantly remove the background from your photos</td>
+            </tr>
+            <tr>
+               <td><a href="https://neumorphism.io/#55b9f3" rel="nofollow">Neumorphism.io</a></td>
+               <td>Generate Soft-UI CSS shadow code</td>
+            </tr>
+            <tr>
+               <td><a href="https://app.dbdesigner.net/" rel="nofollow">DB Designer</a></td>
+               <td>Design your database for free online</td>
+            </tr>
+            <tr>
+               <td><a href="https://uibakery.io/" rel="nofollow">Ui Bakery</a></td>
+               <td>Create full-fledged web apps visually</td>
+            </tr>
+            <tr>
+               <td><a href="http://knutsynstad.com/fauxcode/" rel="nofollow">Faux</a></td>
+               <td>Turn real code into faux code</td>
+            </tr>
+         </tbody>
+      </table>
+      <div align="right">
+         <b><a href="#table-of-contents">↥ Back To Top</a></b>
+      </div>
+      <h2>
+         <a id="user-content-downloadable-design-software" class="anchor" aria-hidden="true" href="#downloadable-design-software">
+            <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
+               <path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
+            </svg>
+         </a>
+         Downloadable Design Software
+      </h2>
+      <blockquote>
+         <p>Free software for UI, photo, 3d modeling, etc. Alternatives to paid software like Photoshop</p>
+      </blockquote>
+      <table>
+         <thead>
+            <tr>
+               <th>Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</th>
+               <th>Description</th>
+            </tr>
+         </thead>
+         <tbody>
+            <tr>
+               <td><a href="https://www.gimp.org/" rel="nofollow">Gimp</a></td>
+               <td>Free &amp; open source image editor similar to Photoshop</td>
+            </tr>
+            <tr>
+               <td><a href="https://www.designer.io/en/" rel="nofollow">Gravit Designer</a></td>
+               <td>Free full-featured vector graphic design app that works on ALL platforms</td>
+            </tr>
+            <tr>
+               <td><a href="https://www.blender.org/download/" rel="nofollow">Blender</a></td>
+               <td>Open source, free animation, 3D modeling, etc.</td>
+            </tr>
+            <tr>
+               <td><a href="https://rawtherapee.com/" rel="nofollow">Raw Therapee</a></td>
+               <td>Cross-platform raw image processing program</td>
+            </tr>
+            <tr>
+               <td><a href="https://www.befunky.com/features/graphic-designer/" rel="nofollow">Be Funky</a></td>
+               <td>Online design program</td>
+            </tr>
+            <tr>
+               <td><a href="https://krita.org/en/download/krita-desktop/" rel="nofollow">Krita</a></td>
+               <td>Sketching and painting program designed for digital artists</td>
+            </tr>
+            <tr>
+               <td><a href="https://pencil.evolus.vn/" rel="nofollow">Pencil Project</a></td>
+               <td>GUI prototyping software</td>
+            </tr>
+            <tr>
+               <td><a href="https://inkscape.org/" rel="nofollow">Inkscape</a></td>
+               <td>Powerful free design tool</td>
+            </tr>
+            <tr>
+               <td><a href="https://www.adobe.com/products/xd.html" rel="nofollow">Adobe XD</a></td>
+               <td>Free design tool from Adobe</td>
+            </tr>
+            <tr>
+               <td><a href="https://shape.so/pricing" rel="nofollow">Shapes.so</a></td>
+               <td>Icons that can be used as code in your projects</td>
+            </tr>
+            <tr>
+               <td><a href="https://icons8.com/lunacy" rel="nofollow">Lunacy</a></td>
+               <td>Sketch for Windows</td>
+            </tr>
+            <tr>
+               <td><a href="https://www.invisionapp.com/studio" rel="nofollow">InVision Studio</a></td>
+               <td>Free screen designing tool from InVision</td>
+            </tr>
+            <tr>
+               <td><a href="https://www.invisionapp.com/studio" rel="nofollow">Darktable</a></td>
+               <td>Free &amp; Open source photography workflow application and raw developer</td>
+            </tr>
+         </tbody>
+      </table>
+      <div align="right">
+         <b><a href="#table-of-contents">↥ Back To Top</a></b>
+      </div>
+      <h2>
+         <a id="user-content-design-inspiration" class="anchor" aria-hidden="true" href="#design-inspiration">
+            <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
+               <path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
+            </svg>
+         </a>
+         Design Inspiration
+      </h2>
+      <blockquote>
+         <p>Here are some websites to get inspiration for design and UI</p>
+      </blockquote>
+      <table>
+         <thead>
+            <tr>
+               <th>Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</th>
+               <th>Description</th>
+            </tr>
+         </thead>
+         <tbody>
+            <tr>
+               <td><a href="https://www.behance.net/" rel="nofollow">Behance</a></td>
+               <td>Design projects featured by different creators</td>
+            </tr>
+            <tr>
+               <td><a href="https://dribbble.com/" rel="nofollow">Dribbble</a></td>
+               <td>Design projects featured by different creators</td>
+            </tr>
+            <tr>
+               <td><a href="https://httpster.net/2020/apr/" rel="nofollow">Httpster</a></td>
+               <td>Showcases websites made by people from all over the world</td>
+            </tr>
+            <tr>
+               <td><a href="https://www.microcopyinspirations.com/" rel="nofollow">Microcopy Inspirations</a></td>
+               <td>Curated collection of UX writing examples, microcopy examples and copywriting examples</td>
+            </tr>
+            <tr>
+               <td><a href="https://inspofinds.com/" rel="nofollow">Inspofinds</a></td>
+               <td>Latest design work from designers and the design community</td>
+            </tr>
+            <tr>
+               <td><a href="https://www.designnotes.co/" rel="nofollow">Design Notes</a></td>
+               <td>Free online resource library for product designers</td>
+            </tr>
+            <tr>
+               <td><a href="https://land-book.com/" rel="nofollow">Land Book</a></td>
+               <td>Displays a large collection of websites to help find inspiration</td>
+            </tr>
+            <tr>
+               <td><a href="https://www.frontendmentor.io/" rel="nofollow">Frontend Mentor</a></td>
+               <td>Real-world UI Challenges using HTML, CSS and Javascript</td>
+            </tr>
+            <tr>
+               <td><a href="https://www.awwwards.com/" rel="nofollow">Awwwards</a></td>
+               <td>A website that rate and collects the best websites in the world in UI</td>
+            </tr>
+            <tr>
+               <td><a href="https://tympanus.net/codrops/" rel="nofollow">Codrops</a></td>
+               <td>A website that collects the best UI ideas and patterns and make tutorials of it</td>
+            </tr>
+            <tr>
+               <td><a href="https://saaslandingpage.com/" rel="nofollow">SaaS Landing Page</a></td>
+               <td>Discover the best landing page examples created by top-class SaaS companies</td>
+            </tr>
+            <tr>
+               <td><a href="https://www.pages.xyz/" rel="nofollow">Pages.xyz</a></td>
+               <td>Curate and discover the best designed web pages</td>
+            </tr>
+            <tr>
+               <td><a href="https://uimovement.com/" rel="nofollow">UI Movement</a></td>
+               <td>UI Movement is a community of design enthusiasts who share and discuss the most interesting and unique UI designs</td>
+            </tr>
+            <tr>
+               <td><a href="https://freefrontend.com/" rel="nofollow">Freefrontend</a></td>
+               <td>Free front end design from css html and javascript. latest work some design part</td>
+            </tr>
+            <tr>
+               <td><a href="https://webframe.xyz" rel="nofollow">Webframe</a></td>
+               <td>Discover and be inspired by beautiful webapp designs</td>
+            </tr>
+         </tbody>
+      </table>
+      <div align="right">
+         <b><a href="#table-of-contents">↥ Back To Top</a></b>
+      </div>
+      <h2>
+         <a id="user-content-image-compression" class="anchor" aria-hidden="true" href="#image-compression">
+            <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
+               <path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
+            </svg>
+         </a>
+         Image Compression
+      </h2>
+      <blockquote>
+         <p>Websites that allow you to compress large images</p>
+      </blockquote>
+      <table>
+         <thead>
+            <tr>
+               <th>Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</th>
+               <th>Description</th>
+            </tr>
+         </thead>
+         <tbody>
+            <tr>
+               <td><a href="https://tinypng.com/" rel="nofollow">TinyPNG</a></td>
+               <td>Smart PNG and JPEG compression</td>
+            </tr>
+            <tr>
+               <td><a href="https://imagecompressor.com/" rel="nofollow">Optimizilla</a></td>
+               <td>Online JPEG and PNG optimizer / compressor with settings and archive download</td>
+            </tr>
+            <tr>
+               <td><a href="https://compressor.io/" rel="nofollow">Compressor.io</a></td>
+               <td>JPEG, PNG, GIF, SVG Compression</td>
+            </tr>
+            <tr>
+               <td><a href="https://squoosh.app/" rel="nofollow">Squoosh.app</a></td>
+               <td>Image compression from Google Chrome Labs</td>
+            </tr>
+            <tr>
+               <td><a href="https://bulkresizephotos.com/" rel="nofollow">BulkResizePhotos</a></td>
+               <td>Bulk image resizing, compression &amp; converting that perform all the tasks within the browser (It works offline)</td>
+            </tr>
+            <tr>
+               <td><a href="https://www.iloveimg.com/" rel="nofollow">iLoveIMG</a></td>
+               <td>The fastest free web app for easy image modification</td>
+            </tr>
+            <tr>
+               <td><a href="https://jakearchibald.github.io/svgomg/" rel="nofollow">SvgOMG</a></td>
+               <td>Online SVG optimizer with a lot of settings and possibility to cut and paste svg code directly in it.</td>
+            </tr>
+            <tr>
+               <td><a href="https://compressjpeg.com/" rel="nofollow">CompressJPEG</a></td>
+               <td>Compress JPEG images with size even greater than 5MB</td>
+            </tr>
+            <tr>
+               <td><a href="https://compressnow.com/" rel="nofollow">CompressNow</a></td>
+               <td>JPEG, GIF, PNG Compression</td>
+            </tr>
+            <tr>
+               <td><a href="https://compressnow.com/" rel="nofollow">Promo Image Resizer</a></td>
+               <td>Free Image and Photo Resizer</td>
+            </tr>
+         </tbody>
+      </table>
+      <div align="right">
+         <b><a href="#table-of-contents">↥ Back To Top</a></b>
+      </div>
+      <h2>
+         <a id="user-content-others" class="anchor" aria-hidden="true" href="#others">
+            <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
+               <path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
+            </svg>
+         </a>
+         Others
+      </h2>
+      <blockquote>
+         <p>Uncategorized Stuff</p>
+      </blockquote>
+      <table>
+         <thead>
+            <tr>
+               <th>Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</th>
+               <th>Description</th>
+            </tr>
+         </thead>
+         <tbody>
+            <tr>
+               <td><a href="https://everysize.kibalabs.com/" rel="nofollow">everysize.kibalabs.com</a></td>
+               <td>Check your awesome responsive webpage looks great in every size</td>
+            </tr>
+            <tr>
+               <td><a href="https://devhints.io/" rel="nofollow">Devhints.io</a></td>
+               <td>This is a modest collection of cheatsheets on Internet</td>
+            </tr>
+            <tr>
+               <td><a href="https://thewebtoolbox.cc/" rel="nofollow">The Web Toolbox</a></td>
+               <td>A collection of handy, free-to-use tools for web developers, programmers and designers.</td>
+            </tr>
+            <tr>
+               <td><a href="https://css-tricks.com/" rel="nofollow">css-tricks</a></td>
+               <td>Free CSS tricks and some unique ideas for beginners and advanced</td>
+            </tr>
+            <tr>
+               <td><a href="https://material.io/resources/resizer/" rel="nofollow">Material Design Resizer</a></td>
+               <td>An interactive viewer that helps designers test material design breakpoints across desktop, mobile, and tablet.</td>
+            </tr>
+         </tbody>
+      </table>
+      <div align="right">
+         <b><a href="#table-of-contents">↥ Back To Top</a></b>
+      </div>
+   </article>
+</div>
