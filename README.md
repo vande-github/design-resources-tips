@@ -167,8 +167,8 @@
                <td>Create amazing Dribbble-ready GIFs or videos in one click.</td>
             </tr>
             <tr>
-               <td><a href="https://devhints.io/" rel="nofollow">Devhints.io</a></td>
-               <td>This is a modest collection of cheatsheets on Internet</td>
+               <td><a href="https://www.screenspace.io/studio/" rel="nofollow">ScreenSpace</a></td>
+               <td>Create studio quality 3D device videos — in minute</td>
             </tr>
          </tbody>
       </table>
