@@ -140,7 +140,7 @@
             </tr>
             <tr>
                <td><a href="https://www.postermywall.com/" rel="nofollow">PosterMyWall</a></td>
-               <td><b>Create amazing Posters, Videos & Graphics For Your Business</b>Thousands of templates, free downloads and easy tools!</td>
+               <td><b>Create amazing Posters, Videos & Graphics For Your Business</b> (Thousands of templates, free downloads and easy tools!) </td>
             </tr>
          </tbody>
       </table>
