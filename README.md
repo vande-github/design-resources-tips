@@ -174,6 +174,10 @@
                <td><a href="https://hamok.io/" rel="nofollow">Hamok</a></td>
                <td>Showcase your digital designs. Beautifully and super easy with Hamok. Create high resolution mockups, personalise, export and use everywhere.</td>
             </tr>
+             <tr>
+               <td><a href="https://threed.io/" rel="nofollow">threed.io</a></td>
+               <td>Generate 3D Mockups right in your Browser (Upload your design, adjust settings and download your individual mockup. Threed is for free and needs no extra Software.)</td>
+            </tr>
          </tbody>
       </table>
       <div align="right">
