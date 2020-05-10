@@ -2282,7 +2282,25 @@
          3D type software tools
       </h2>
       <blockquote>
-         <p>creating a best 3D type software after complete your website and mobile apps.</p>
+         <p>Creating a best 3D type software after complete your website and mobile apps.</p>
       </blockquote>
+       <table>
+         <thead>
+            <tr>
+               <th>Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</th>
+               <th>Description</th>
+            </tr>
+         </thead>
+         <tbody>
+            <tr>
+               <td><a href="https://everysize.kibalabs.com/" rel="nofollow">everysize.kibalabs.com</a></td>
+               <td>Check your awesome responsive webpage looks great in every size</td>
+            </tr>
+            <tr>
+               <td><a href="https://devhints.io/" rel="nofollow">Devhints.io</a></td>
+               <td>This is a modest collection of cheatsheets on Internet</td>
+            </tr>
+         </tbody>
+      </table>
    </article>
 </div>
