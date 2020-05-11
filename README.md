@@ -182,6 +182,26 @@
                <td><a href="https://threed.io/" rel="nofollow">threed.io</a></td>
                <td>Generate 3D Mockups right in your Browser (Upload your design, adjust settings and download your individual mockup. Threed is for free and needs no extra Software.)</td>
             </tr>
+            <tr>
+               <td><a href="https://frrames.com/" rel="nofollow">frrames</a></td>
+               <td>Your perfect design in perfect mockup frame</td>
+            </tr>
+            <tr>           
+               <td><a href="https://dimmy.club/" rel="nofollow">Dimmy club</a></td>
+               <td>Device mockup generator for your screenshots</td>
+            </tr>
+            <tr>           
+               <td><a href="https://mockupsjar.com/" rel="nofollow">Mockupsjar</a></td>
+               <td><b>Create beautiful device mockups</b> (Create stunning product mockups and win more projects. No Photoshop or plugins needed!) 703+ ready-to-use product mockups right inside your browser</td>
+            </tr>
+            <tr>           
+               <td><a href="https://www.mock.video/" rel="nofollow">Mock video</a></td>
+               <td>Make a video after complete apps.</td>
+            </tr>
+            <tr>           
+               <td><a href="https://www.mock.video/" rel="nofollow">Shotsnapp</a></td>
+               <td><b>Show off your product, website, design,app.</b> (Create beautiful device mockup images for your app or website design. Share it everywhere.)</td>
+            </tr>
          </tbody>
       </table>
       <div align="right">
