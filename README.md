@@ -199,7 +199,7 @@
                <td>Make a video after complete apps.</td>
             </tr>
             <tr>           
-               <td><a href="https://www.mock.video/" rel="nofollow">Shotsnapp</a></td>
+               <td><a href="https://shotsnapp.com/" rel="nofollow">Shotsnapp</a></td>
                <td><b>Show off your product, website, design,app.</b> (Create beautiful device mockup images for your app or website design. Share it everywhere.)</td>
             </tr>
          </tbody>
