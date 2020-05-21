@@ -142,6 +142,30 @@
                <td><a href="https://www.postermywall.com/" rel="nofollow">PosterMyWall</a></td>
                <td><b>Create amazing Posters, Videos & Graphics For Your Business</b> (Thousands of templates, free downloads and easy tools!) </td>
             </tr>
+               <tr>
+               <td><a href="https://psd.zone/" rel="nofollow">PSD ZONE</a></td>
+               <td>Mockups, Ui Kit, Brauchers,Templates, Print and Web Templates etc. (Download Free PSD files, Free Photoshop PSD files and Resources)</td>
+            </tr>
+<tr>
+               <td><a href="https://psdfreebies.com/" rel="nofollow">PSD Freebies</a></td>
+               <td>Mockups, Ui Kit, Brauchers,Templates, Print and Web Templates etc. (Download Free PSD files, Free Photoshop PSD files and Resources)</td>
+            </tr>
+<tr>
+               <td><a href="https://psd.zone/" rel="nofollow">PSD ZONE</a></td>
+               <td>Mockups, Ui Kit, Brauchers,Templates, Print and Web Templates etc. (Download Free PSD files, Free Photoshop PSD files and Resources)</td>
+            </tr>
+<tr>
+               <td><a href="https://downloadpsd.cc/" rel="nofollow">DownloadPSD</a></td>
+               <td>Mockups, Ui Kit, Brauchers,Templates, Print and Web Templates etc.(Download Free PSD files, Free Photoshop PSD files and Resources) </td>
+            </tr>
+<tr>
+               <td><a href="https://downloadfreepsd.com/" rel="nofollow">Download Free PSD</a></td>
+               <td>Mockups, Ui Kit, Brauchers,Templates, Print and Web Templates etc.(Download Free PSD files, Free Photoshop PSD files and Resources) </td>
+            </tr>
+<tr>
+               <td><a href="https://www.graphicsfuel.com/" rel="nofollow">Graphics Fuel</a></td>
+               <td>Mockups, Ui Kit, Brauchers,Templates, Print and Web Templates etc.(Download Free PSD files, Free Photoshop PSD files and Resources) </td>
+            </tr>
          </tbody>
       </table>
       <div align="right">
