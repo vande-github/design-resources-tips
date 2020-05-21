@@ -151,11 +151,11 @@
                <td>Mockups, Ui Kit, Brauchers,Templates, Print and Web Templates etc. (Download Free PSD files, Free Photoshop PSD files and Resources)</td>
             </tr>
 <tr>
-               <td><a href="https://psd.zone/" rel="nofollow">PSD ZONE</a></td>
+               <td><a href="https://psdreams.com/" rel="nofollow">PSD Dreams</a></td>
                <td>Mockups, Ui Kit, Brauchers,Templates, Print and Web Templates etc. (Download Free PSD files, Free Photoshop PSD files and Resources)</td>
             </tr>
 <tr>
-               <td><a href="https://downloadpsd.cc/" rel="nofollow">DownloadPSD</a></td>
+               <td><a href="https://downloadpsd.cc/" rel="nofollow">Download PSD</a></td>
                <td>Mockups, Ui Kit, Brauchers,Templates, Print and Web Templates etc.(Download Free PSD files, Free Photoshop PSD files and Resources) </td>
             </tr>
 <tr>
