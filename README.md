@@ -1093,6 +1093,10 @@
                <td><a href="https://w3layouts.com/" rel="nofollow">W3Layouts</a></td>
                <td>W3Layouts: 3784+ Free Website Templates for 2020</td>
             </tr>
+            <tr>
+               <td><a href="https://mertjf.github.io/tailblocks/" rel="nofollow">tailblocks</a></td>
+               <td>RAPIDLY Create UI Designs in Minutes with Tailblocks (css file link => (https://unpkg.com/tailwindcss@1.4.6/dist/tailwind.min.css) </td>
+            </tr>
          </tbody>
       </table>
       <div align="right">
