@@ -1953,6 +1953,10 @@
                <td><a href="https://www.remove.bg/" rel="nofollow">RemoveBG</a></td>
                <td>Remove image backgrounds</td>
             </tr>
+             <tr>
+               <td><a href="https://www.unscreen.com/" rel="nofollow">Remove Video Background</a></td>
+               <td>Remove Video Background</td>
+            </tr>
             <tr>
                <td><a href="https://photos.icons8.com/creator" rel="nofollow">Photo Creator</a></td>
                <td>Create your own photos instead of searching for stock</td>
@@ -2096,6 +2100,10 @@
             <tr>
                <td><a href="https://uibakery.io/" rel="nofollow">Ui Bakery</a></td>
                <td>Create full-fledged web apps visually</td>
+            </tr>
+            <tr>
+               <td><a href="http://knutsynstad.com/fauxcode/" rel="nofollow">Faux</a></td>
+               <td>Turn real code into faux code</td>
             </tr>
             <tr>
                <td><a href="http://knutsynstad.com/fauxcode/" rel="nofollow">Faux</a></td>
